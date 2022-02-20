@@ -1,0 +1,35 @@
+/*Carousel Style*/
+
+.carousel-item {
+    height: 670px;
+
+}
+.carousel-item img {
+    margin-top: none;
+}
+.carousel-item .display-4 {
+    margin-top: -450px;
+}
+
+.carousel-item hr {
+    border-color: #F05F40;
+    width: 70px ;
+    border-width: 3px;
+}
+
+.card{
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.card-img-top {
+    align-self: center;
+
+}
+.card-title {
+    margin-left: 50px;
+}
+.card-text {
+    margin-left: 50px;
+    margin-right: 50px;
+}

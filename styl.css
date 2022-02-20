@@ -1,0 +1,26 @@
+/*Carousel Style*/
+
+.carousel-item {
+    height: 670px;
+
+}
+.carousel-item img {
+    margin-top: none;
+}
+.carousel-item .display-4 {
+    margin-top: -450px;
+}
+
+.carousel-item hr {
+    border-color: #F05F40;
+    width: 70px ;
+    border-width: 3px;
+}
+.carousel-item .btn {
+    background-color: #0400fa;
+    border: none;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 40px;
+}

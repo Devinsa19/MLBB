@@ -1,0 +1,31 @@
+/*Carousel Style*/
+.carousel-item {
+    height: 670px;
+
+}
+.carousel-item img {
+    margin-top: none;
+}
+.carousel-item .display-4 {
+    margin-top: -450px;
+}
+
+.carousel-item hr {
+    border-color: #F05F40;
+    width: 70px ;
+    border-width: 3px;
+}
+
+/*Card Turney*/
+.card {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.row .card:hover {
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+    transform: scale(1.02);
+
+}
+.row .media .mr-3{
+    align-self: center;
+}
